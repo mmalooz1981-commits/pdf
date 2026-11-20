@@ -1,0 +1,6 @@
+{
+  "name": "موعد اللوز بي دي اف",
+  "description": "تطبيق احترافي متكامل لعرض وتحرير وتقسيم ودمج وتوقيع وتحويل ملفات PDF باللغة العربية",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
